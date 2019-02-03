@@ -1,0 +1,2 @@
+# Movie-Recommender-Map-Reduce
+This project is built using Python on Spark framework. The aim of this project is to recommend movies to user based on the given input movie. Although there are many state-of-art movie recommender algorithms present in the market, yet this project does not uses any existing movie recommender algorithm, instead focusses on building a new algorithm given input and other pre-requisites.
